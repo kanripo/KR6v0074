@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:33.687653
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:12
 #+TITLE: 護國司南抄
 #+PROPERTY: CBETA_ID W07n0061
 #+PROPERTY: ID KR6v0074
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 07, No. 061
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0074_W_001-0068a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 護國司南抄¶
 ¶
 整理者　侯沖¶
 ¶
@@ -73,14 +73,13 @@
 ¶
 ¶
 
-錄文¶
+* 〔錄文〕¶
 ¶
 
 □…□攝彼十字皈於一字，從廣至略，漸減漸¶
 深。一字現前，同於法界，性相平等，至究竟故。¶
 ¶
-
- 護國司南抄卷第一¶
+護國司南抄卷第一¶
 內供奉僧、崇聖寺主、¶
 義學教主、賜紫沙門玄鑒集¶
 ¶
@@ -720,7 +719,7 @@
 送著海中，任隨流逝。男船泛海至此寶渚，見豐奇玩，即便¶
 止住。後商人將家屬採寶，復至其間，乃煞商人，留其婦女。¶
 如是產育子孫，經無量代，人眾漸多，乃立君臣。以其遠祖¶
-執煞師子，因為國稱。女船泛海至婆剌斯西，為鬼魅所得，¶
+執煞師子，因為國稱。女船泛海至婆刺斯西，為鬼魅所得，¶
 生育群女，今西大國是也。¶
 
 竹林園、白鷺池
