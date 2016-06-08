@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:33.687653
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:12
 #+TITLE: 護國司南抄
 #+PROPERTY: CBETA_ID W07n0061
 #+PROPERTY: ID KR6v0074
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 題解¶
 ¶
 整理者　侯沖¶
 ¶
@@ -73,7 +73,7 @@
 ¶
 ¶
 
-錄文¶
+* 錄文¶
 ¶
 
 □…□攝彼十字皈於一字，從廣至略，漸減漸¶
